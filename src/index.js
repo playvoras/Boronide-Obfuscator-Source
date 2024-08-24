@@ -136,7 +136,7 @@ module.exports = {
             }
     
         }
-        code = `--[[\n\therrtt's obfuscator, v${settings.__VERSION__}\n--]]\n\n` + code
+        code = `--[[\n\tnigger obfuscator, v${settings.__VERSION__}\n--]]\n\n` + code
 
         if (settings.JIT && process.platform === 'win32') {
             console.log(`Running file ('./obf/temp/output.lua')...`)
