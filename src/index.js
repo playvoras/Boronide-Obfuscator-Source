@@ -5,7 +5,7 @@ let DefaultSettings = {
 
     'Debug': false,
     'SkipMinify': false,
-    'useRewriteGenerator': false,
+    'useRewriteGenerator': true,
 
     'BeautifyDebug': true,
     'PrintStep': false,
@@ -15,7 +15,7 @@ let DefaultSettings = {
 
     'AntiTamper': true,
     'MaximumSecurity': true,
-    'UseSuperops': true
+    'UseSuperops': false
 }
 
 global.TopDir = __dirname
