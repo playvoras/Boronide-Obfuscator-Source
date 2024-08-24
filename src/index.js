@@ -10,12 +10,12 @@ let DefaultSettings = {
     'BeautifyDebug': true,
     'PrintStep': false,
     'JIT': false,
-    'Watermark': `herrtts obf, discord.gg/BZEjFbeUvk`,
+    'Watermark': `nigger obfuscator`,
     'Uid': '1',
 
     'AntiTamper': true,
     'MaximumSecurity': true,
-    'UseSuperops': false
+    'UseSuperops': true
 }
 
 global.TopDir = __dirname
