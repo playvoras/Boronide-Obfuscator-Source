@@ -15,7 +15,7 @@ let DefaultSettings = {
 
     'AntiTamper': true,
     'MaximumSecurity': true,
-    'UseSuperops': true
+    'UseSuperops': false
 }
 
 global.TopDir = __dirname
