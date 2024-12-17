@@ -5,17 +5,17 @@ let DefaultSettings = {
 
     'Debug': false,
     'SkipMinify': false,
-    'useRewriteGenerator': false,
+    'useRewriteGenerator': true,
 
     'BeautifyDebug': true,
-    'PrintStep': false,
-    'JIT': false,
+    'PrintStep': true,
+    'JIT': true,
     'Watermark': `herrtts obf, discord.gg/BZEjFbeUvk`,
     'Uid': '1',
 
     'AntiTamper': true,
     'MaximumSecurity': true,
-    'UseSuperops': false
+    'UseSuperops': true
 }
 
 global.TopDir = __dirname
